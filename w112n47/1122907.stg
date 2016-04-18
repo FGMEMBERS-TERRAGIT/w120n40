@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/localizer.xml -111.206086 47.490515 1069.8 311.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.066597 47.499966 1070.3 304.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.063397 47.496711 1066.25 303.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.0008 47.442831 1119.66 311.49
