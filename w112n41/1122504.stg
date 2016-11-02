@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Airport/ils.xml -111.980497 41.137167 1455.24 208.48
+OBJECT_SHARED Models/Communications/radio-medium.xml -111.983556 41.239667 1156.27 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -111.945833 41.229444 1199.47 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -111.945278 41.238611 1142.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -111.784167 41.144722 1318.08 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -111.998878 41.203653 1340.97 180
+OBJECT_SHARED Models/Airport/marker.ac -111.990497 41.14939 1383.99 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -111.952222 41.191667 943 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -111.998333 41.215 911.92 180
+OBJECT_SHARED Models/Airport/localizer.xml -111.9993 41.204375 1340.4 134.73
+OBJECT_SHARED Models/Military/BAK-12.xml -111.9800668 41.1343382 1462.1 26.1

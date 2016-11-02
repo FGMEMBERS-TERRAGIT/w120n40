@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/vordme_1.xml -114.084237 45.021312 2821.66 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -114.248332 45.09938 2057.46 330.04
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -114.245848 45.096592 1980.43 319.18
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -114.234107 45.092935 1534.64 336.18
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -114.233293 45.092681 1534.7 336.15
