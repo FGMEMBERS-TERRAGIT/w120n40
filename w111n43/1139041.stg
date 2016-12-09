@@ -7,3 +7,8 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -110.741972 43.596492 1951.8 18
 OBJECT_SHARED Models/Communications/vordme_1.xml -110.731686 43.621039 1967.97 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -110.745278 43.596667 1461.03 180
 OBJECT_SHARED Models/Airport/localizer.xml -110.742983 43.596603 1951.67 289.36
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -110.74229 43.60757 1957.66 40.95
+# END dsf2stg
