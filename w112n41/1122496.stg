@@ -6,3 +6,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -111.752389 41.122389 1538.
 OBJECT_SHARED Models/Communications/radome-16m.xml -111.8385694 41.0324803 2887.51 180
 OBJECT_SHARED Models/Communications/radome-16m.xml -111.8384107 41.0331597 2893.17 180
 OBJECT_SHARED Models/Airport/localizer.xml -111.959581 41.104047 1453.83 242.98
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml -111.9820929 41.1221669 1458.48 185
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml -111.9820308 41.1215926 1458.22 335.8
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml -111.9811139 41.1225456 1458.86 183.8
+OBJECT_SHARED Models/Military/us-hush-house-hangar-sand.xml -111.980227 41.1227445 1459.1 215.9
+OBJECT_SHARED Models/Military/mil-hangar-60x70-sand.xml -111.9681575 41.1058792 1451.84 297.5
+OBJECT_STATIC hangar-jrb-lg1.xml -111.9776397 41.1206845 1458.83 89.9
