@@ -21,3 +21,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -117.378418 48.641655 638.81 102
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -117.377918 48.640155 641.17 102.43
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -117.37607 48.63462 650.29 102.44
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -117.375503 48.63292 653.25 102.43
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/prop_a.ac -117.41407 48.71329 0.00 101.616
+OBJECT_SHARED Models/lib/prop_a.ac -117.41358 48.71373 642.88 101.616
+OBJECT_SHARED Models/lib/prop_a.ac -117.41391 48.71349 642.51 283.6
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -117.41397 48.71306 642.71 12.9295
+OBJECT_SHARED Models/Transport/hatchback_blue.ac -117.41356 48.71379 643.04 99.7525
+# END dsf2stg

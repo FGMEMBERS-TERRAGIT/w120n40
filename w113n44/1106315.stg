@@ -35,3 +35,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.170922 44.172433 1587.61 27
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.170914 44.172213 1587.47 267.97
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.170812 44.245134 1698.51 269.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.170782 44.210315 1635.43 268.67
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -112.22317 44.16981 0.00 53.12
+OBJECT_SHARED Models/lib/garage-small-white.ac -112.22428 44.16847 1562.57 1.9
+OBJECT_SHARED Models/lib/garage-small-white.ac -112.22037 44.16978 1561.62 359.64
+OBJECT_SHARED Models/lib/farm19x12.ac -112.22069 44.16996 1561.66 269.31
+OBJECT_SHARED Models/lib/garage-small-white.ac -112.22448 44.16790 1562.30 9.23
+# END dsf2stg

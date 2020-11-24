@@ -2,3 +2,13 @@ OBJECT_SHARED Models/Airport/ndb.ac -111.914128 48.185614 1058.66 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -111.945 48.168889 922.82 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -111.910278 48.139722 995.45 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -111.775833 48.169417 932.37 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -111.96925 48.17147 0.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -111.96849 48.17158 1073.97 108.435
+OBJECT_SHARED Models/lib/SmHangar.ac -111.97022 48.17121 1073.64 18.18
+OBJECT_SHARED Models/lib/luggage-truck-HD.ac -111.96927 48.17143 1074.37 270
+OBJECT_SHARED Models/lib/luggage-cart-HD.ac -111.96932 48.17143 1074.02 1.32999
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -111.96844 48.17154 1074.02 15.38
+# END dsf2stg

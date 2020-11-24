@@ -46,3 +46,27 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.790153 45.755137 1755.32 29
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.789185 45.760267 1682.84 255.96
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.78808 45.76335 1654.55 255.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -112.787986 45.763612 1653.92 255.95
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97519 45.77317 0.00 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97520 45.77316 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97520 45.77315 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97520 45.77314 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97520 45.77313 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97519 45.77313 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97517 45.77312 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97516 45.77312 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97515 45.77312 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97514 45.77312 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97512 45.77312 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97511 45.77313 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97511 45.77314 1758.31 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97511 45.77315 1758.31 270
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97511 45.77316 1758.31 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97512 45.77317 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97513 45.77318 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97515 45.77318 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97516 45.77318 1758.21 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -112.97518 45.77318 1758.21 0
+# END dsf2stg

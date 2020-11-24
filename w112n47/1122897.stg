@@ -24,3 +24,13 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.653841 47.369436 1027.01 42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.650632 47.371412 1027.32 41.07
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.648353 47.372701 1027.74 39.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -111.645714 47.374196 1028.08 40.95
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.72004 47.26593 0.00 0
+OBJECT_SHARED Models/StreetFurniture/EDDI-cone.ac -111.72004 47.26589 1081.35 0
+OBJECT_SHARED Models/lib/watertank3x1.ac -111.72004 47.26591 1081.35 268.363
+OBJECT_SHARED Models/lib/SmHangar.ac -111.72010 47.26641 1081.35 195.821
+OBJECT_SHARED Models/lib/propane-tank.ac -111.72028 47.26624 1082.29 12.0115
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -111.72010 47.26628 1081.94 285.461
+# END dsf2stg

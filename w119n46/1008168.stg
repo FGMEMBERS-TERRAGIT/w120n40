@@ -27,3 +27,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -118.79239 46.63794 304.75 355.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -118.783939 46.637472 318.66 355.38
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -118.77325 46.636877 323.24 355.18
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -118.759248 46.636034 322.66 348.82
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -118.83234 46.66076 0.00 270
+OBJECT_SHARED Models/lib/SmHangar.ac -118.83234 46.66082 283.94 270
+OBJECT_SHARED Models/lib/HorizTanks2.ac -118.83282 46.66003 283.94 274.79
+OBJECT_SHARED Models/lib/office3x10.ac -118.83666 46.66043 281.59 96.95
+OBJECT_SHARED Models/Transport/hatchback_black.ac -118.83664 46.66034 281.24 279.64
+OBJECT_SHARED Models/Transport/hatchback_silver.ac -118.83025 46.66059 281.05 86.63
+OBJECT_SHARED Models/lib/trailer-fedex.ac -118.83017 46.66051 284.37 183.75
+OBJECT_SHARED Models/lib/prop_a.ac -118.83546 46.66074 284.17 175.84
+# END dsf2stg
